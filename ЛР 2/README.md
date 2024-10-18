@@ -72,7 +72,8 @@ radioactive_funcs = {"U_234": None, "U_235": None, "U_238": None}
 
 Unit-тест
 
-
+![unit_code4](https://github.com/MelnikNO/programming-2/blob/main/Screen/lr2_code4_unittest.png)
 
 pytest
 
+![pytest_code4](https://github.com/MelnikNO/programming-2/blob/main/Screen/lr2_code4_pytest.png)
