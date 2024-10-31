@@ -56,9 +56,15 @@
 
 **Результат основной программы:** 
 
+![code2](https://github.com/MelnikNO/programming-2/blob/main/Screen/LR3_2.png)
+
 
 **Комментарий к тестовой программе:** Программа не вызвала сложность, так как была написана в 1.4 ЛР № 2 
 
 **Результат тестовой программы (unit-тест):** 
 
+![code2](https://github.com/MelnikNO/programming-2/blob/main/Screen/LR3_2_unittest.png)
+
 **Результат тестовой программы (pytest):** 
+
+![code2](https://github.com/MelnikNO/programming-2/blob/main/Screen/LR3_2_pytest.png)
