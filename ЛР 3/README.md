@@ -30,14 +30,19 @@
 ```
 
 **Результат основной программы:** 
-![code1]()
+
+![code1](https://github.com/MelnikNO/programming-2/blob/main/Screen/LR3_1.png)
 
 
 **Комментарий к тестовой программе:** Программа не вызвала сложность, так как была написана в 1.4 ЛР № 2 
 
 **Результат тестовой программы (unit-тест):** 
 
+![code1](https://github.com/MelnikNO/programming-2/blob/main/Screen/L3_1_unittest.png)
+
 **Результат тестовой программы (pytest):** 
+
+![code1](https://github.com/MelnikNO/programming-2/blob/main/Screen/LR3_1_pytest.png)
 
 ---
 
