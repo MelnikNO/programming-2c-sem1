@@ -13,3 +13,7 @@ Replit (Перестал работать)
 ---
 
 ## Лабораторная работа №3 [ЛР3](https://github.com/MelnikNO/programming-2/tree/main/ЛР%203)
+
+---
+
+## Лабораторная работа №4 [ЛР4](https://github.com/MelnikNO/programming-2/tree/main/ЛР%204)
